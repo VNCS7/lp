@@ -1,0 +1,5 @@
+#include <string.h>
+//BLIBIOTECA
+
+if(strcmp(senha,"asdfg")==0)
+//COMANDO
