@@ -1,6 +1,6 @@
 # Repositório da disciplina de Lógica de Programação | 2017.2 (@ETEC ZL)
 
-# Sumário das Atividades
+Sumário das Atividades
 
 # 01.AGOSTO
 	23/08/2017:
@@ -28,3 +28,5 @@
 	EXERCÍCIOS DE REPETIÇÃO COM VARIÁVEL DE CONTROLE (for)
 	29/11/2017:
 	ATIVIDADE AVALIATIVA - JOGO DE ADIVINHAÇÃO.
+
+															\\VNCS//
