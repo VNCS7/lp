@@ -28,5 +28,3 @@ Sumário das Atividades
 	EXERCÍCIOS DE REPETIÇÃO COM VARIÁVEL DE CONTROLE (for)
 	29/11/2017:
 	ATIVIDADE AVALIATIVA - JOGO DE ADIVINHAÇÃO.
-
-															\\VNCS//
