@@ -1,4 +1,5 @@
 # Repositório da disciplina de Lógica de Programação | 2017.2 (@ETEC ZL)
+<p align="center"><img width="10%" src="imgs/head.png" />
 
 Sumário das Atividades
 
