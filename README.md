@@ -1,7 +1,7 @@
 # Repositório da disciplina de Lógica de Programação | 2017.2 (@ETEC ZL)
-<p align="center"><img width="60%" src="img/head.png" />
+<p align="center"><img width="40%" src="img/head.png" />
 
-Sumário das Atividades
+<p align="center">Sumário das Atividades
 
 # 01.AGOSTO
 	23/08/2017:
